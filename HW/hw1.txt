@@ -1,0 +1,7 @@
+A. Jack Reeves veiws programing as a percise task that is very design heavy. He also states that programming in general is a task that has very little overhead and can be very efficent depending on the process. However, this is only the case if the right design process is used.
+
+B.There aren't more rigid standards for designing code or writing software because the current state of just building and testing software still produces the end result. Any major change would not drastically change the amount of time to devolp software which is why there are not more rigid standards.
+
+C. He likes c++ better than other languages because C++ offers a closer conection to lower level languages. This allows for more percice control which in turn helps make a better programming experience before object-oriented languages are considered.
+
+D. They don't follow other engineering design and testing since programming is a lot more dynamic then other engineering disciplines. So what could take months to prepare,build, and test can take only a couple days for programmers while for the other disciplines it could take much longer than that. 
